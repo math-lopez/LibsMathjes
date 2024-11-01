@@ -1,0 +1,55 @@
+# Arquivos de build
+bin/
+obj/
+
+# Arquivos do Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Arquivos do Rider
+.idea/
+*.iml
+
+# Arquivos do ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Pacotes NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+~$*
+
+# Arquivos de backup
+*.bak
+*.old
+
+# Banco de dados local do Entity Framework
+*.mdf
+*.ldf
+
+# Arquivos de cache
+*.cache
+*.pdb
+
+# Configurações locais
+appsettings.Development.json
+secrets.json
+
+# Diretório de publicação
+publish/
+
+# Arquivos do sistema (macOS)
+.DS_Store
+
+# Arquivos de lock
+project.lock.json

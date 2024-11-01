@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>MATHJES</Authors>
+    <Company>MATHJES TECH</Company>
+    <PackageId>LibsMathjes</PackageId>
+    <Title>Libs Mathjes</Title> 
+    <Description>Lib para conter todos serviços dotnet no tempo</Description>
+    <PackageTags>logging;aspnetcore</PackageTags>
+    <RepositoryUrl>https://github.com/math-lopez/SeuRepositorio</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
